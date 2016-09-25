@@ -67,6 +67,11 @@ Existen numerosos complementos desarrollados por colaboradores de *OSM* que agre
 
 `JOSM Plugins <https://josm.openstreetmap.de/wiki/Plugins>`_
 
+El siguiente documento aporta algo más de información acerca de la instalación de plugins en OSM:
+
+`JOSM Plugins and Preferences <https://docs.google.com/document/d/1A1tfoP0Eg2FQRL_RgEf8ABOkiFobGAivlFkK87VIVkQ/edit>`_
+
+
 Material de aprendizaje
 -----------------------
 
@@ -76,6 +81,17 @@ La web `learnosm.org <http://learnosm.org>`_ proporciona diversos manuales de in
    :width: 600px
    :alt: learn josm
    :align: center
+
+`Introducción a JOSM <http://learnosm.org/es/josm/start-josm/>`_
+
+`Editar con JOSM <http://learnosm.org/es/josm/editing-with-josm/#recorrido-por-josm>`_
+
+`Herramientas de Edición en JOSM <http://learnosm.org/es/josm/josm-tools/>`_
+
+`Complementos de JOSM y Opciones <http://learnosm.org/es/josm/josm-plugins/>`_
+
+`Usando Fotografías Aéreas <http://learnosm.org/es/josm/aerial-imagery/>`_
+
 
 Descarga de datos OSM desde JOSM
 --------------------------------
