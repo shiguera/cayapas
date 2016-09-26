@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Cartomundo OSM'
+project = 'Cayapas OSM'
 copyright = '2016, Santiago Higuera'
 author = 'Santiago Higuera'
 
@@ -108,12 +108,12 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#html_theme = 'agogo'
+html_theme = 'agogo'
 #html_theme = 'classic'
 #html_theme = 'epub'
 #html_theme = 'basic'
 #html_theme = 'bizstyle'
-html_theme = 'sphinxdoc'
+#html_theme = 'sphinxdoc'
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -206,7 +206,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CartomundoOSMdoc'
+htmlhelp_basename = 'CayapasOSMdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'CartomundoOSM.tex', 'Cartomundo OSM Documentation',
+    (master_doc, 'CayapasOSM.tex', 'Cayapas OSM Documentation',
      'Santiago Higuera', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'cartomundoosm', 'Cartomundo OSM Documentation',
+    (master_doc, 'cayapasosm', 'Cayapas OSM Documentation',
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'CartomundoOSM', 'Cartomundo OSM Documentation',
-     author, 'CartomundoOSM', 'One line description of project.',
+    (master_doc, 'CayapasOSM', 'Cayapas OSM Documentation',
+     author, 'CayapasOSM', 'One line description of project.',
      'Miscellaneous'),
 ]
 

@@ -15,7 +15,7 @@ OpenStreetMap, OSM, es la mayor base de datos geográfica de libre acceso que ex
    :alt: osm nodes
    :align: center
 
-Flujo de trabajo en la descarga y utilizaci´on de datos OSM
+Flujo de trabajo en la descarga y utilización de datos OSM
 -----------------------------------------------------------
 
 El flujo de trabajo con datos procedentes de OpenStreetMap suele seguir las siguientes fases (ver figura ):

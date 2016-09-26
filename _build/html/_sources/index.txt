@@ -36,7 +36,7 @@ Contenidos:
 Acerca de este documento
 ------------------------
 
-Este documento ha sido creado en mayo de 2016 por Santiago Higuera, profesor de la Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos, en el Departamento de Matemáticas e Informática aplicadas a la Ingeniería Civil y Naval de la Universidad Politécnica de Madrid (España).
+Este documento ha sido creado en septiembre de 2016 por Santiago Higuera, profesor de la Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos, en el Departamento de Matemáticas e Informática aplicadas a la Ingeniería Civil y Naval de la Universidad Politécnica de Madrid (España).
 
 El objetivo es crear un manual para la utilización de los datos contenidos en la base de datos de OpenStreetMap.
 
