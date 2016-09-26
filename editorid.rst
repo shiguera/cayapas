@@ -13,14 +13,14 @@ Comenzando con el Editor iD
 - Desplace y amplié el área en el mapa que desea editar. Puede desplazar el mapa manteniendo pulsado el botón izquierdo del ratón y arrastrando el mapa al área deseada.  
 - Haga clic en la flecha pequeña junto a **Editar**. Luego, haga clic en **Editar con iD (editor en el navegador)**.
 
-.. image:: learnosm/images/beginner/id-editor_image1_1.png
+.. image:: _static/id-editor_image1_1.png
    :width: 600px
    :alt: id-editor_image1
 
 
 Interfaz de usuario de iD
 -------------------------
-.. image:: learnosm/images/beginner/id-editor_image2.png
+.. image:: _static/id-editor_image2.png
    :width: 600px
    :alt: id-editor_image2
 
@@ -32,66 +32,66 @@ Interfaz de usuario de iD
 
 - Dibujar un punto (nodo), *acceso directo* **1**  
   
-.. image:: learnosm/images/beginner/id-editor_image3.png
+.. image:: _static/id-editor_image3.png
    :alt: id-editor_image3
 
 - Dibujar una línea (camino), *acceso directo* **2**  
   
-.. image:: learnosm/images/beginner/id-editor_image4.png
+.. image:: _static/id-editor_image4.png
    :alt: id-editor_image4
 
 
 - Dibujar una forma (polígono), *acceso directo* **3**  
 
-.. image:: learnosm/images/beginner/id-editor_image5.png
+.. image:: _static/id-editor_image5.png
    :alt: id-editor_image5
 
 - Deshacer, *acceso directo* **Ctrl+z**   
   
-.. image:: learnosm/images/beginner/id-editor_image6.png
+.. image:: _static/id-editor_image6.png
    :alt: id-editor_image6
 
 - Rehacer, *acceso directo* **Ctrl+y**   
   
-.. image:: learnosm/images/beginner/id-editor_image7.png
+.. image:: _static/id-editor_image7.png
    :alt: id-editor_image7
 
 
 - Guardar cambios, *acceso directo* **Ctrl+s**   
   
-.. image:: learnosm/images/beginner/id-editor_image8.png
+.. image:: _static/id-editor_image8.png
    :alt: id-editor_image8
 
 3. **Panel del mapa:** Este panel muestra varias funciones de configuración:
     - Acercar, *acceso directo* **+**   
   
-.. image:: learnosm/images/beginner/id-editor_image9.png
+.. image:: _static/id-editor_image9.png
    :alt: id-editor_image9
 
 - Alejar, *acceso directo* **-**   
   
-.. image:: learnosm/images/beginner/id-editor_image10.png
+.. image:: _static/id-editor_image10.png
    :alt: id-editor_image10
 
 
 - Mostrar su ubicación
   
-.. image:: learnosm/images/beginner/id-editor_image11.png
+.. image:: _static/id-editor_image11.png
    :alt: id-editor_image11
 
 - Configurar la capa de fondo, *acceso directo* **b**   
   
-.. image:: learnosm/images/beginner/id-editor_image12.png
+.. image:: _static/id-editor_image12.png
    :alt: id-editor_image12
 
 - Datos del mapa, *acceso directo* **f**   
 
-.. image:: learnosm/images/beginner/id-editor_map_data.png
+.. image:: _static/id-editor_map_data.png
    :alt: map_data
   
 - Abrir el menú de ayuda, *acceso directo* **h**   
   
-.. image:: learnosm/images/beginner/id-editor_image13.png
+.. image:: _static/id-editor_image13.png
    :alt: id-editor_image13
 
 
@@ -103,18 +103,18 @@ Antes de comenzar a editar, puede cambiar la capa de fondo.
 
 - Haga clic en el botón de **Configuración del fondo** o utiliza el *acceso directo* **b**.
 
-.. image:: learnosm/images/beginner/id-editor_image14.png
+.. image:: _static/id-editor_image14.png
    :alt: id-editor_image14
 
 
 - Verá un panel como este:
 
-.. image:: learnosm/images/beginner/id-editor_image15.png
+.. image:: _static/id-editor_image15.png
    :alt: id-editor_image15
  
 - Puede cambiar el **nivel de brillo** haciendo clic en alguno de estos cuadros:
 
-.. image:: learnosm/images/beginner/id-editor_image16.png
+.. image:: _static/id-editor_image16.png
    :alt: id-editor_image16
 
 - Hay 4 niveles diferentes de brillo - 100%, 75%, 50% y 25%. Haga clic en cada uno de ellos para ver la diferencia.
@@ -123,7 +123,7 @@ Antes de comenzar a editar, puede cambiar la capa de fondo.
 - Puede agregar sus propias teselas haciendo clic en **Personalizado**.
 - Por ejemplo, si quiere **añadir un Field Paper**, haga clic en **Personalizado** y luego en el icono de la lupa (búsqueda) para abrir la siguiente ventana:  
 
-.. image:: learnosm/images/beginner/id-editor_image17.png
+.. image:: _static/id-editor_image17.png
    :alt: id-editor_image17
 
 e introduzca su **URL de instantánea Field Paper**, que será algo como esto: <http://fieldpapers.org/snapshot.php?id=cqhmf2v9#18/37.80593/-122.22715>  
@@ -131,17 +131,17 @@ e introduzca su **URL de instantánea Field Paper**, que será algo como esto: <
 - Puede **mostrar rutas de GPS desde su computadora** (formato GPX). Es tan simple como arrastrar y soltar el archivo GPX en el editor iD.
 - Puede habilitar **trazas GPS de OpenStreetMap** para mostrar trazas públicas de GPS disponibles para el área. En la imagen de abajo, las trazas GPS públicas se muestran en varios colores, lo que indica la dirección de desplazamiento.
 
-.. image:: learnosm/images/beginner/id-editor_gps_public.png
+.. image:: _static/id-editor_gps_public.png
    :alt: id-editor_gps_public.png
 
 - Si hay que [compensar las imágenes](/es/josm/aerial-imagery), puede **corregir el desfase de imágenes** haciendo clic en corregir la alineación.
 
-.. image:: learnosm/images/beginner/id-editor_image18.png
+.. image:: _static/id-editor_image18.png
    :alt: id-editor_image18
 
 - Haga clic en los botones de navegación para mover la imagen. Haga clic en el botón de restaurar para volver a la posición predeterminada.  
 
-.. image:: learnosm/images/beginner/id-editor_image20.png
+.. image:: _static/id-editor_image20.png
    :alt: id-editor_image20
 
 Edición básica con iD
@@ -151,23 +151,23 @@ Ahora empecemos a practicar con iD.
 ### Añadiendo puntos
 - Para añadir un punto nuevo, haga clic en el botón **Punto**.
 
-.. image:: learnosm/images/beginner/id-editor_image3.png
+.. image:: _static/id-editor_image3.png
    :alt: id-editor_image3
 
 - El cursor de su ratón se transformará en el signo más (+). Ahora, haga clic en una posición que usted conoce para marcar una ubicación. Por ejemplo, si sabe que hay un hospital en su área, haga clic en la posición del mismo.
 
-.. image:: learnosm/images/beginner/id-editor_image21.png
+.. image:: _static/id-editor_image21.png
    :alt: id-editor_image21
 
 - Note que un nuevo punto se ha añadido. Al mismo tiempo, en el panel izquierdo aparecerá un formulario donde puede seleccionar atributos para el objeto. Haga clic en **Hospital** para etiquetar el punto como un hospital.
 
-.. image:: learnosm/images/beginner/id-editor_image22.png
+.. image:: _static/id-editor_image22.png
    :alt: id-editor_image22
 
 - Puede usar los formularios para llenar información detallada acerca del punto. Puede rellenar el nombre del hospital, dirección, y otra información adicional. Note que cada elemento tendrá diferentes opciones, dependiendo de la etiqueta que seleccione del panel de elementos. 
 - Si comete un error, como por ejemplo una ubicación incorrecta, puede mover su punto a una nueva ubicación haciendo clic con el botón izquierdo del ratón sobre el punto y arrastrándolo. O, si desea eliminar su punto, haga clic con el botón izquierdo sobre el punto y luego haga clic en el botón que se parece a una papelera.
 
-.. image:: learnosm/images/beginner/id-editor_image23.png
+.. image:: _static/id-editor_image23.png
    :alt: id-editor_image23
 
 Un "punto" creado en el editor iD es en realidad un "nodo" independiente, asociado a un conjunto de "etiquetas".
@@ -175,63 +175,63 @@ Un "punto" creado en el editor iD es en realidad un "nodo" independiente, asocia
 ### Dibujando líneas
 - Para agregar una nueva línea, haga clic en el botón **Línea**.
 
-.. image:: learnosm/images/beginner/id-editor_image4.png
+.. image:: _static/id-editor_image4.png
    :alt: id-editor_image4
 
 - Su cursor se transformará en el signo más (+). Busque una ruta que no haya sido dibujada en el mapa y trácela. Haga un sólo clic en el punto donde el segmento de ruta comienza, mueva el ratón, y haga clic nuevamente para agregar puntos adicionales. Haga doble-clic para terminar el proceso de trazado. Observe el panel de la izquierda.
 
-.. image:: learnosm/images/beginner/id-editor_image24.png
+.. image:: _static/id-editor_image24.png
    :alt: id-editor_image24
 
 - Del mismo modo que con un punto, seleccione las etiquetas apropiadas para su línea.
 - Puede arrastrar puntos desde la línea haciendo clic con el botón izquierdo del ratón y arrastrándolo.
 - También puede mover la línea entera seleccionándola, y eligiendo la **Herramienta de movimiento**. Luego, arrastre la línea hacia su nueva posición.
 
-.. image:: learnosm/images/beginner/id-editor_image30.png
+.. image:: _static/id-editor_image30.png
    :alt: id-editor_image30
 
 - Cuando haga clic con el botón izquierdo del ratón en un punto individual (nodo) de la línea, verá estas herramientas: 
 
 - Eliminar punto de la línea
 
-.. image:: learnosm/images/beginner/id-editor_image23.png
+.. image:: _static/id-editor_image23.png
    :alt: id-editor_image23
 
 - Desconectar punto de la línea
 
-.. image:: learnosm/images/beginner/id-editor_image26.png
+.. image:: _static/id-editor_image26.png
    :alt: id-editor_image26
 
 - Dividir la línea en dos a partir del punto seleccionado
 
-.. image:: learnosm/images/beginner/id-editor_image27.png
+.. image:: _static/id-editor_image27.png
    :alt: id-editor_image27
 
 - Cuando haga clic con el botón izquierdo del ratón en una línea (pero no en un punto), verá estas herramientas:
 
 - Eliminar línea
 
-.. image:: learnosm/images/beginner/id-editor_image23.png
+.. image:: _static/id-editor_image23.png
    :alt: id-editor_image23
 
 - Crear un círculo  a partir de una línea (activo solamente si la línea es cerrada)
 
-.. image:: learnosm/images/beginner/id-editor_image29.png
+.. image:: _static/id-editor_image29.png
    :alt: id-editor_image29
 
 - Mover línea
 
-.. image:: learnosm/images/beginner/id-editor_image30.png
+.. image:: _static/id-editor_image30.png
    :alt: id-editor_image30
 
 - Formar una figura cuadrada a partir de una línea (activo solamente si la línea es cerrada)
 
-.. image:: learnosm/images/beginner/id-editor_image31.png
+.. image:: _static/id-editor_image31.png
    :alt: id-editor_image31
 
 - Invertir la dirección de la línea (útil para ríos y calles de un solo sentido)
 
-.. image:: learnosm/images/beginner/id-editor_image32.png
+.. image:: _static/id-editor_image32.png
    :alt: id-editor_image32
 
 Una "línea" creada en el editor iD es en realidad una "vía" con "etiquetas" asociadas.
@@ -241,13 +241,13 @@ Una "línea" creada en el editor iD es en realidad una "vía" con "etiquetas" as
 ### Dibujando formas (polígonos)
 - Para añadir un nuevo polígono, haga clic en el botón **Área**.
 
-.. image:: learnosm/images/beginner/id-editor_image34.png
+.. image:: _static/id-editor_image34.png
    :alt: id-editor_image34
 
 - Su cursor se transformará en el signo más (+). Intente trazar un edificio usando la imagen como guía.
 - Notará que el color del polígono cambiará dependiendo de los atributos que le asigne al mismo.
 
-.. image:: learnosm/images/beginner/id-editor_image35.png
+.. image:: _static/id-editor_image35.png
    :alt: id-editor_image35
 
 - Las herramientas que están disponibles cuando selecciona un polígono son similares a aquellas que están disponibles cuando hace clic en una línea.
@@ -259,7 +259,7 @@ Guardando sus cambios
 - Cuando desee guardar sus cambios en OpenStreetMap (si es que así lo desea), haga clic en el botón
   **Guardar**. El panel de la izquierda mostrará el panel de subida.
 
-.. image:: learnosm/images/beginner/id-editor_image36.png
+.. image:: _static/id-editor_image36.png
    :alt: id-editor_image36
 
 - Ingrese un comentario acerca de sus cambios y haga clic en **Guardar**.
@@ -271,47 +271,47 @@ Información adicional y etiquetas personalizadas
 
 - Añadir elevación
 
-.. image:: learnosm/images/beginner/id-editor_image37.png
+.. image:: _static/id-editor_image37.png
    :alt: id-editor_image37
   
 - Añadir notas
   
-.. image:: learnosm/images/beginner/id-editor_image38.png
+.. image:: _static/id-editor_image38.png
    :alt: id-editor_image38
   
 - Añadir contactos / número de teléfono
   
-.. image:: learnosm/images/beginner/id-editor_image39.png
+.. image:: _static/id-editor_image39.png
    :alt: id-editor_image39
   
 - Añadir etiqueta de origen
   
-.. image:: learnosm/images/beginner/id-editor_image40.png
+.. image:: _static/id-editor_image40.png
    :alt: id-editor_image40
   
 - Añadir sitio web
   
-.. image:: learnosm/images/beginner/id-editor_image41.png
+.. image:: _static/id-editor_image41.png
    :alt: id-editor_image41
   
 - Añadir información de accesibilidad
   
-.. image:: learnosm/images/beginner/id-editor_image42.png
+.. image:: _static/id-editor_image42.png
    :alt: id-editor_image42
   
 - Añadir enlace de Wikipedia
   
-.. image:: learnosm/images/beginner/id-editor_image43.png
+.. image:: _static/id-editor_image43.png
    :alt: id-editor_image43
 
 - O, puede añadir etiquetas personalizadas haciendo clic en **Todas las etiquetas**.
 
-.. image:: learnosm/images/beginner/id-editor_image44.png
+.. image:: _static/id-editor_image44.png
    :alt: id-editor_image44
 
 - Esto mostrará todas las etiquetas asociadas al elemento.
 
-.. image:: learnosm/images/beginner/id-editor_image45.png
+.. image:: _static/id-editor_image45.png
    :alt: id-editor_image45
 
 - Haga clic en el signo más (+) para añadir claves y valores, o haga clic en el icono de la papelera para eliminar etiquetas.
